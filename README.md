@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Thomas Learmonth</h1>
+
 <h3>Currently studying HND Software Development</h3>
 
 
